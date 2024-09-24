@@ -10,7 +10,7 @@ Meu nome é **Michel Fernandes**, sou formado em Análise e Desenvolvimento de S
 - 💞️ Estou aberto a colaborações em projetos que envolvam **inteligência artificial** e **automação**.
 
 ## Como me Contatar
-- 📫 Você pode me alcançar através do meu e-mail: [seu_email@example.com](mailto:seu_email@example.com) (substitua pelo seu e-mail real).
+- 📫 Você pode me alcançar através do meu e-mail: [michelfaguiar@gmail.com](mailto:michelfaguiar@gmail.com).
 
 ## Pronome
 - 😄 Meus pronomes: **ele/dele**.
@@ -34,7 +34,7 @@ My name is **Michel Fernandes**, and I have a degree in **Analysis and Developme
 - 💞️ I’m looking to collaborate on projects involving **artificial intelligence** and **automation**.
 
 ## How to Reach Me
-- 📫 You can reach me at my email: [your_email@example.com](mailto:your_email@example.com) (replace with your actual email).
+- 📫 You can reach me at my email: [michelfaguiar@gmail.com](mailto:michelfaguiar@gmail.com).
 
 ## Pronouns
 - 😄 My pronouns are **he/him**.
